@@ -1,0 +1,59 @@
+{
+    "name": "Battle Zenith v1.6.7",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "Extra Effects": "github:alexszeto/extra-effects#v3.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-mini-menu": "github:riknoll/arcade-mini-menu#v0.0.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1",
+        "arcade-tile-util": "github:microsoft/arcade-tile-util#v1.2.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.51",
+        "tag": "v1.12.51",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/eb9fd884260f64c934fb51355e36f8c76272b6b4",
+        "target": "2.0.56",
+        "pxt": "8.5.63",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFDF5",
+        "#F31260",
+        "#FF941A",
+        "#FFE042",
+        "#977863",
+        "#72E548",
+        "#1DBF55",
+        "#26E8D2",
+        "#2B74D4",
+        "#8348DB",
+        "#969EA6",
+        "#513781",
+        "#76574C",
+        "#2D2E49",
+        "#0B0024"
+    ]
+}
